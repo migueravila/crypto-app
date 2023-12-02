@@ -1,0 +1,14 @@
+{
+  "eablokker.tabsSidebar.config.customKindGroupsOrder" : [
+    "html",
+    "javascript",
+    "css"
+  ],
+  "eablokker.tabsSidebar.config.customTabOrder" : [
+    "\/Users\/mendicant\/Downloads\/CryptoApp\/index.html",
+    "\/Users\/mendicant\/Downloads\/CryptoApp\/src\/App.css",
+    "\/Users\/mendicant\/Downloads\/CryptoApp\/src\/App.jsx",
+    "\/Users\/mendicant\/Downloads\/CryptoApp\/src\/components\/InstructionsModal.jsx",
+    "\/Users\/mendicant\/Downloads\/CryptoApp\/src\/components\/CurrencySelector.jsx"
+  ]
+}
